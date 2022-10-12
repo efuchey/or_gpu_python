@@ -3,7 +3,7 @@ numba/GPU code for SQ OR
 
 To clone this repository:
 
-    git clone git@github.com:efuchey/e1039-GPU
+    git clone git@github.com:efuchey/or_gpu_python
 
 This is the python version of the code that is used to process the online reconstruction in GPUs.
 
